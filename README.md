@@ -18,4 +18,4 @@ npm run dev
 - 3 Execute o frontend abrindo o arquivo `client/index.html` com Live Server do VsCode
 
 ## Print da tela
-![Screenshot](./)
+![Screenshot](./Captura de tela 2026-09-17 123518.png)
